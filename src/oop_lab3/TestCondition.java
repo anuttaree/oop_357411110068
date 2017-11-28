@@ -19,6 +19,9 @@ public class TestCondition {
         else System.out.println("x is 10");
 
 
+        //
+
+
 
     }//main
 }//class
