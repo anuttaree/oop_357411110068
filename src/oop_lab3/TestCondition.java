@@ -14,13 +14,14 @@ public class TestCondition {
             System.out.println("x less than y");
         }
         // If-else-If
-        if (x<10){System.out.println("x less than 10");}
-        else if (x>10){System.out.println("x more than 10");}
-        else System.out.println("x is 10");
+        if (x < 10) {
+            System.out.println("x less than 10");
+        } else if (x > 10) {
+            System.out.println("x more than 10");
+        } else System.out.println("x is 10");
 
 
         //
-
 
 
     }//main
