@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="edeb0769-3212-4e17-bf1f-9fd446ce6ffc" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oop_lab6/StringBuf.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oop_lab6/StringToken.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -15,11 +15,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="StringBuf.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="StringBuf.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/oop_lab6/StringBuf.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="15" column="24" lean-forward="false" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+            <state relative-caret-position="286">
+              <caret line="16" column="35" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StringToken.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/oop_lab6/StringToken.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="44">
+              <caret line="2" column="17" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -69,6 +79,7 @@
         <option value="$PROJECT_DIR$/src/oop_lab6/myString.java" />
         <option value="$PROJECT_DIR$/src/oop_lab6/StringCompare.java" />
         <option value="$PROJECT_DIR$/src/oop_lab6/StringBuf.java" />
+        <option value="$PROJECT_DIR$/src/oop_lab6/StringToken.java" />
       </list>
     </option>
   </component>
@@ -140,7 +151,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.StringBuf">
+  <component name="RunManager" selected="Application.StringToken">
     <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -198,14 +209,14 @@
       <module name="oop_357411110068" />
       <envs />
     </configuration>
-    <configuration name="StudentData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="StringToken" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="oop_lap4.*" />
+          <option name="PATTERN" value="oop_lab6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="oop_lap4.StudentData" />
+      <option name="MAIN_CLASS_NAME" value="oop_lab6.StringToken" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -318,19 +329,19 @@
       <envs />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.StudentData" />
-      <item index="1" class="java.lang.String" itemvalue="Application.HelloWorld" />
-      <item index="2" class="java.lang.String" itemvalue="Application.myString" />
-      <item index="3" class="java.lang.String" itemvalue="Application.StringCompare" />
-      <item index="4" class="java.lang.String" itemvalue="Application.StringBuf" />
+      <item index="0" class="java.lang.String" itemvalue="Application.HelloWorld" />
+      <item index="1" class="java.lang.String" itemvalue="Application.myString" />
+      <item index="2" class="java.lang.String" itemvalue="Application.StringCompare" />
+      <item index="3" class="java.lang.String" itemvalue="Application.StringBuf" />
+      <item index="4" class="java.lang.String" itemvalue="Application.StringToken" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.StringBuf" />
-        <item index="1" class="java.lang.String" itemvalue="Application.StringCompare" />
-        <item index="2" class="java.lang.String" itemvalue="Application.myString" />
-        <item index="3" class="java.lang.String" itemvalue="Application.HelloWorld" />
-        <item index="4" class="java.lang.String" itemvalue="Application.StudentData" />
+        <item index="0" class="java.lang.String" itemvalue="Application.StringToken" />
+        <item index="1" class="java.lang.String" itemvalue="Application.StringBuf" />
+        <item index="2" class="java.lang.String" itemvalue="Application.StringCompare" />
+        <item index="3" class="java.lang.String" itemvalue="Application.myString" />
+        <item index="4" class="java.lang.String" itemvalue="Application.HelloWorld" />
       </list>
     </recent_temporary>
   </component>
@@ -471,7 +482,14 @@
       <option name="project" value="LOCAL" />
       <updated>1514372383285</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="StringBufferBuffer">
+      <created>1514373196422</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1514373196422</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -486,7 +504,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32460734" sideWeight="0.5675" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32460734" sideWeight="0.4325" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32460734" sideWeight="0.4325" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -528,7 +546,8 @@
     <MESSAGE value="Array List" />
     <MESSAGE value="String" />
     <MESSAGE value="String Compare" />
-    <option name="LAST_COMMIT_MESSAGE" value="String Compare" />
+    <MESSAGE value="StringBufferBuffer" />
+    <option name="LAST_COMMIT_MESSAGE" value="StringBufferBuffer" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -717,7 +736,7 @@
         <state relative-caret-position="284">
           <caret line="16" column="26" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -735,8 +754,8 @@
         <state relative-caret-position="308">
           <caret line="18" column="11" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
           <folding>
-            <element signature="e#235#236#0" expanded="true" />
-            <element signature="e#288#289#0" expanded="true" />
+            <element signature="e#235#236#0" expanded="false" />
+            <element signature="e#288#289#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -799,8 +818,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/oop_lab6/StringBuf.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="15" column="24" lean-forward="false" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+        <state relative-caret-position="286">
+          <caret line="16" column="35" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oop_lab6/StringToken.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="17" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
           <folding />
         </state>
       </provider>
