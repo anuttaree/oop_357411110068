@@ -17,6 +17,7 @@ public class Student {
                 '}';
     }//tostring
 
+    public static String gender = "Male";
     private String id;
     private String major;
     private String faculty;
