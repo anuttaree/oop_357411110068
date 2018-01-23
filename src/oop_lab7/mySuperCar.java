@@ -7,16 +7,21 @@ public class mySuperCar {
 
 
     public static void main (String [] args) {
-        //create Objects as SuperCar
+       // create Objects as SuperCar
         SuperCar supercar1 = new SuperCar();
 
         supercar1 = inputData(supercar1);
 
-        System.out.println(supercar1.toString());
+        System.out.println(supercar1.getSuperCarInfo());
+
+
+
+
+
     }//main
     private static SuperCar inputData(SuperCar s) {
         Scanner scanner = new Scanner(System.in);
-        System.out.println("Enter your supercar data: ");
+        System.out.println("Enter your supercar info: ");
         System.out.print("Brand: ");
         s.setBrand(scanner.nextLine());
         System.out.print("color: ");
@@ -30,5 +35,8 @@ public class mySuperCar {
 
 
         return s;
+
+
     }
 }//class
+
