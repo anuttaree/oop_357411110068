@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="edeb0769-3212-4e17-bf1f-9fd446ce6ffc" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oop_lab8/Employee.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oop_lab8/PersonInfo.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -16,7 +14,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Person.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Person.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/oop_lab8/Person.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="132">
@@ -45,7 +43,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Student.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Student.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/oop_lab8/Student.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="132">
@@ -622,7 +620,14 @@
       <option name="project" value="LOCAL" />
       <updated>1517279904705</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Inheritance: Person">
+      <created>1517282423654</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1517282423654</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -637,7 +642,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32460734" sideWeight="0.5675" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34554973" sideWeight="0.4325" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34554973" sideWeight="0.4325" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -661,7 +666,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="55" />
     <MESSAGE value="This Information" />
     <MESSAGE value="Test Condition" />
     <MESSAGE value="Cal Grade" />
@@ -686,7 +690,8 @@
     <MESSAGE value="Class and Object: SuperCar Class" />
     <MESSAGE value="Class and Object: mySuperCar App" />
     <MESSAGE value="Inheritance: Student extends Person" />
-    <option name="LAST_COMMIT_MESSAGE" value="Inheritance: Student extends Person" />
+    <MESSAGE value="Inheritance: Person" />
+    <option name="LAST_COMMIT_MESSAGE" value="Inheritance: Person" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -964,23 +969,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/oop_lab8/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="29" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="29" />
-          <folding>
-            <element signature="e#712#713#0" expanded="true" />
-            <element signature="e#744#745#0" expanded="true" />
-            <element signature="e#794#795#0" expanded="true" />
-            <element signature="e#836#837#0" expanded="true" />
-            <element signature="e#868#869#0" expanded="true" />
-            <element signature="e#896#897#0" expanded="true" />
-            <element signature="e#938#939#0" expanded="true" />
-            <element signature="e#972#973#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/oop_lab8/Employee.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
@@ -1033,6 +1021,23 @@
             <element signature="e#1184#1185#0" expanded="true" />
             <element signature="e#1207#1208#0" expanded="true" />
             <element signature="e#1230#1231#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oop_lab8/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="29" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="29" />
+          <folding>
+            <element signature="e#712#713#0" expanded="true" />
+            <element signature="e#744#745#0" expanded="true" />
+            <element signature="e#794#795#0" expanded="true" />
+            <element signature="e#836#837#0" expanded="true" />
+            <element signature="e#868#869#0" expanded="true" />
+            <element signature="e#896#897#0" expanded="true" />
+            <element signature="e#938#939#0" expanded="true" />
+            <element signature="e#972#973#0" expanded="true" />
           </folding>
         </state>
       </provider>
