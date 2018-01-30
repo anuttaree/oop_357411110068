@@ -3,18 +3,18 @@ package oop_lab8;
 public class Employee extends Person {
     private String EmployeeID;
     private String position;
-    private String salary;
+    private double salary;
 
     @Override
     public String toString() {
         return "Employee{" +
                 "EmployeeID='" + EmployeeID + '\'' +
                 ", position='" + position + '\'' +
-                ", salary='" + salary + '\'' +
+                ", salary=" + salary +
                 "} " + super.toString();
     }
 
-    public Employee(String personID, String name, String gender, int age, String employeeID, String position, String salary) {
+    public Employee(String personID, String name, String gender, int age, String employeeID, String position, double salary) {
         super(personID, name, gender, age);
         EmployeeID = employeeID;
         this.position = position;
@@ -37,11 +37,11 @@ public class Employee extends Person {
         this.position = position;
     }
 
-    public String getSalary() {
+    public double getSalary() {
         return salary;
     }
 
-    public void setSalary(String salary) {
+    public void setSalary(double salary) {
         this.salary = salary;
     }
 }//class

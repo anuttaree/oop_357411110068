@@ -13,16 +13,15 @@ public class PersonInfo {
 
         System.out.println(student.getName());
 
-        Employee employee = new Employee("1801700076079",
-                "ann",
-                "female",
-                23,
-                "001",
-                "Administration",
-                "20,000");
+        Employee employee = new Employee(
+                "180163131211",
+                "john",
+                "Male",
+                22,
+                "002",
+                "art",
+                30000);
         System.out.println(employee.toString());
-
-
 
 
     }//main
