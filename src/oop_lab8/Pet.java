@@ -34,4 +34,4 @@ public abstract class Pet {
     public void setAge(int age) {
         this.age = age;
     }
-}//class
+}
