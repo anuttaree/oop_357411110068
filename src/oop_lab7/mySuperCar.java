@@ -1,42 +1,36 @@
 package oop_lab7;
 
+import java.util.ArrayList;
 import java.util.Scanner;
-
 public class mySuperCar {
-
-
-
-    public static void main (String [] args) {
-       // create Objects as SuperCar
-        SuperCar supercar1 = new SuperCar();
-
-        supercar1 = inputData(supercar1);
-
-        System.out.println(supercar1.getSuperCarInfo());
-
-
-
-
-
-    }//main
-    private static SuperCar inputData(SuperCar s) {
-        Scanner scanner = new Scanner(System.in);
-        System.out.println("Enter your supercar info: ");
-        System.out.print("Brand: ");
-        s.setBrand(scanner.nextLine());
-        System.out.print("color: ");
-        s.setColor(scanner.nextLine());
-        System.out.print("enginesize: ");
-        s.setEnginesize(scanner.nextLine());
-        System.out.print("maxspeed: ");
-        s.setMaxspeed (scanner.nextLine());
-        System.out.print("origin: ");
-        s.setOrigin(scanner.nextLine());
-
-
-        return s;
-
-
+    public static void main(String[] args) {
+        ArrayList<SuperCar> myCarList = new ArrayList<SuperCar>();
+        myCarList = inputData(myCarList);
+        System.out.println("== Show Super Car Info ==");
+        for (int i=0;i<myCarList.size();i++){
+            System.out.println(myCarList.get(i).getSuperCarInfo());
+        }
     }
-}//class
+    private static ArrayList inputData(ArrayList myCarList) {
+        Scanner scanner = new Scanner(System.in);
+        System.out.println("Please insert super car info: ");
+        for (int i =0;i<10;i++){
+            System.out.println("Super car: "+(i+1));
+            System.out.print("Brand: ");
+            String b = scanner.nextLine();
+            System.out.print("Color: ");
+            String c = scanner.nextLine();
+            System.out.print("Engine Size: ");
+            String e = scanner.nextLine();
+            System.out.print("maxspeed: ");
+            String m = scanner.nextLine();
+            System.out.print("origin: ");
+            String o = scanner.nextLine();
 
+            SuperCar car  = new SuperCar(b,c,e,m,o);
+            myCarList.add(car);
+        }
+        return myCarList;
+    }
+
+}
