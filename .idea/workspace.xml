@@ -43,7 +43,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Student.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Student.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/oop_lab8/Student.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="132">
@@ -62,7 +62,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PersonInfo.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="PersonInfo.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/oop_lab8/PersonInfo.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="308">
@@ -627,7 +627,14 @@
       <option name="project" value="LOCAL" />
       <updated>1517282423654</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Inheritance: Student">
+      <created>1517282450253</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1517282450253</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -666,7 +673,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="This Information" />
     <MESSAGE value="Test Condition" />
     <MESSAGE value="Cal Grade" />
     <MESSAGE value="Test Input" />
@@ -691,7 +697,8 @@
     <MESSAGE value="Class and Object: mySuperCar App" />
     <MESSAGE value="Inheritance: Student extends Person" />
     <MESSAGE value="Inheritance: Person" />
-    <option name="LAST_COMMIT_MESSAGE" value="Inheritance: Person" />
+    <MESSAGE value="Inheritance: Student" />
+    <option name="LAST_COMMIT_MESSAGE" value="Inheritance: Student" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -990,14 +997,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/oop_lab8/PersonInfo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/oop_lab8/Person.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
@@ -1039,6 +1038,14 @@
             <element signature="e#938#939#0" expanded="true" />
             <element signature="e#972#973#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oop_lab8/PersonInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
