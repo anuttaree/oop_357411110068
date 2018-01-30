@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="edeb0769-3212-4e17-bf1f-9fd446ce6ffc" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/oop_lab7/SuperCar.java" afterPath="$PROJECT_DIR$/src/oop_lab7/SuperCar.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/oop_lab7/mySuperCar.java" afterPath="$PROJECT_DIR$/src/oop_lab7/mySuperCar.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,7 +14,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="SuperCar.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SuperCar.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/oop_lab7/SuperCar.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="88">
@@ -41,7 +39,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="mySuperCar.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="mySuperCar.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/oop_lab7/mySuperCar.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="266">
@@ -553,7 +551,14 @@
       <option name="project" value="LOCAL" />
       <updated>1516682784895</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Class and Object: SuperCar Class">
+      <created>1517277141950</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1517277141950</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -613,10 +618,10 @@
     <MESSAGE value="StringBufferBuffer" />
     <MESSAGE value="Class and Object: Student&#10;Class" />
     <MESSAGE value="Class and Object: StudentApp" />
-    <MESSAGE value="Class and Object: SuperCar Class" />
     <MESSAGE value="Class and Object: mySuperCar App" />
     <MESSAGE value="Class and Object: mySuperCar Class" />
-    <option name="LAST_COMMIT_MESSAGE" value="Class and Object: mySuperCar Class" />
+    <MESSAGE value="Class and Object: SuperCar Class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Class and Object: SuperCar Class" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -904,17 +909,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/oop_lab7/mySuperCar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="21" column="38" lean-forward="false" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#197#207#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/oop_lab7/SuperCar.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
@@ -934,6 +928,17 @@
             <element signature="e#1288#1289#0" expanded="true" />
             <element signature="e#1322#1323#0" expanded="true" />
             <element signature="e#1353#1354#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oop_lab7/mySuperCar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="21" column="38" lean-forward="false" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#197#207#0" expanded="true" />
           </folding>
         </state>
       </provider>
