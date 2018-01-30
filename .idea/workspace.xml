@@ -50,7 +50,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Cat.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Cat.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/oop_lab8/Cat.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="44">
@@ -67,7 +67,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PetApp.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="PetApp.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/oop_lab8/PetApp.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="198">
@@ -662,7 +662,14 @@
       <option name="project" value="LOCAL" />
       <updated>1517285113966</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="Cat">
+      <created>1517285132748</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1517285132748</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -701,7 +708,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Test While Loop" />
     <MESSAGE value="Test Methods" />
     <MESSAGE value="Test OverLoadMethods" />
     <MESSAGE value="TestStudentData" />
@@ -726,7 +732,8 @@
     <MESSAGE value="Inheritance: Person Extende Employee" />
     <MESSAGE value="pet" />
     <MESSAGE value="Dog" />
-    <option name="LAST_COMMIT_MESSAGE" value="Dog" />
+    <MESSAGE value="Cat" />
+    <option name="LAST_COMMIT_MESSAGE" value="Cat" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1049,14 +1056,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/oop_lab8/PetApp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="24" lean-forward="false" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/oop_lab8/Pet.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="398">
@@ -1101,6 +1100,14 @@
             <element signature="e#529#530#0" expanded="true" />
             <element signature="e#580#581#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oop_lab8/PetApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="24" lean-forward="false" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+          <folding />
         </state>
       </provider>
     </entry>
