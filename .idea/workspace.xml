@@ -62,7 +62,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PersonInfo.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="PersonInfo.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/oop_lab8/PersonInfo.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="308">
@@ -72,7 +72,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Employee.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Employee.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/oop_lab8/Employee.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="176">
@@ -634,7 +634,14 @@
       <option name="project" value="LOCAL" />
       <updated>1517282450253</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="Inheritance: PersonInfo">
+      <created>1517282474902</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1517282474902</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -673,7 +680,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Test Condition" />
     <MESSAGE value="Cal Grade" />
     <MESSAGE value="Test Input" />
     <MESSAGE value="Test Switch Case" />
@@ -698,7 +704,8 @@
     <MESSAGE value="Inheritance: Student extends Person" />
     <MESSAGE value="Inheritance: Person" />
     <MESSAGE value="Inheritance: Student" />
-    <option name="LAST_COMMIT_MESSAGE" value="Inheritance: Student" />
+    <MESSAGE value="Inheritance: PersonInfo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Inheritance: PersonInfo" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -976,27 +983,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/oop_lab8/Employee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="30" lean-forward="true" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
-          <folding>
-            <element signature="e#728#729#0" expanded="true" />
-            <element signature="e#761#762#0" expanded="true" />
-            <element signature="e#813#814#0" expanded="true" />
-            <element signature="e#852#853#0" expanded="true" />
-            <element signature="e#887#888#0" expanded="true" />
-            <element signature="e#918#919#0" expanded="true" />
-            <element signature="e#966#967#0" expanded="true" />
-            <element signature="e#1006#1007#0" expanded="true" />
-            <element signature="e#1039#1040#0" expanded="true" />
-            <element signature="e#1068#1069#0" expanded="true" />
-            <element signature="e#1112#1113#0" expanded="true" />
-            <element signature="e#1148#1149#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/oop_lab8/Person.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
@@ -1046,6 +1032,27 @@
         <state relative-caret-position="308">
           <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oop_lab8/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="30" lean-forward="true" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+          <folding>
+            <element signature="e#728#729#0" expanded="true" />
+            <element signature="e#761#762#0" expanded="true" />
+            <element signature="e#813#814#0" expanded="true" />
+            <element signature="e#852#853#0" expanded="true" />
+            <element signature="e#887#888#0" expanded="true" />
+            <element signature="e#918#919#0" expanded="true" />
+            <element signature="e#966#967#0" expanded="true" />
+            <element signature="e#1006#1007#0" expanded="true" />
+            <element signature="e#1039#1040#0" expanded="true" />
+            <element signature="e#1068#1069#0" expanded="true" />
+            <element signature="e#1112#1113#0" expanded="true" />
+            <element signature="e#1148#1149#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
