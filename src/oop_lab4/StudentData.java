@@ -1,4 +1,4 @@
-package oop_lap4;
+package oop_lab4;
 
 import java.io.IOException;
 import java.io.BufferedReader;

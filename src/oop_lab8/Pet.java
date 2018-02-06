@@ -1,12 +1,16 @@
 package oop_lab8;
 
 public abstract class Pet {
+    String s;
     private String name;
     private int age;
 
     public Pet(String name, int age) {
         this.name = name;
         this.age = age;
+    }
+    protected  void myPet(){
+        System.out.println(this.name);
     }
     //Abstract Method
     public abstract void makeNoise();
