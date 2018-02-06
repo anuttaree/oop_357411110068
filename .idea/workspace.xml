@@ -39,7 +39,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="myPersonApp.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="myPersonApp.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/oop_lab9/myPersonApp.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="198">
@@ -72,7 +72,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Job.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Job.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/oop_lab9/Job.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="283">
@@ -731,7 +731,14 @@
       <option name="project" value="LOCAL" />
       <updated>1517890450163</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="Job">
+      <created>1517890469628</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1517890469628</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -798,7 +805,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Test Input Data To Array" />
     <MESSAGE value="Test Array 2D" />
     <MESSAGE value="Array List" />
     <MESSAGE value="String" />
@@ -823,7 +829,8 @@
     <MESSAGE value="my Car App" />
     <MESSAGE value="Person" />
     <MESSAGE value="Address" />
-    <option name="LAST_COMMIT_MESSAGE" value="Address" />
+    <MESSAGE value="Job" />
+    <option name="LAST_COMMIT_MESSAGE" value="Job" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1170,14 +1177,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/oop_lab9/myPersonApp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/oop_lab9/Person.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1119">
@@ -1235,6 +1234,14 @@
             <element signature="e#657#658#0" expanded="true" />
             <element signature="e#693#694#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oop_lab9/myPersonApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
